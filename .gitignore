@@ -1,0 +1,24 @@
+# Ignore build and output directories
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.swp
+
+# Ignore temporary and cache files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Visual Studio and Rider settings
+.vs/
+.idea/
+
+# Ignore generated files in Blazor project
+wwwroot/lib/
+wwwroot/*.map
