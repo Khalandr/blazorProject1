@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/khali/Documents/projects/blazorProject1/EventEaseApp/Pages/EventDetails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnREZXRhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/khali/Documents/projects/blazorProject1/EventEaseApp/Pages/EventTest.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXZlbnRUZXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

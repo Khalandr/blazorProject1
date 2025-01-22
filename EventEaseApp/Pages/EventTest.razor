@@ -4,7 +4,10 @@
 
 @foreach (var eventItem in Events)
 {
-    <EventCard EventName="@eventItem.Name" EventDate="@eventItem.Date" EventLocation="@eventItem.Location" />
+    <div>
+        <EventCard EventName="@eventItem.Name" EventDate="@eventItem.Date" EventLocation="@eventItem.Location" />
+        <a href="/eventdetails">View Details</a>
+    </div>
 }
 
 @code {

@@ -1,0 +1,31 @@
+# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+out/
+
+# User-specific files
+*.rsuser
+*.vcxproj.user
+*.opendb
+*.pdb
+*.log
+*.vspscc
+
+# Visual Studio Code
+.vscode/
+
+# Dependency directories
+node_module
