@@ -1,27 +1,90 @@
 @page "/eventtest"
+@using System.ComponentModel.DataAnnotations
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
 
 <h3>Event Card Test</h3>
 
+<!-- Form to Add/Edit Event -->
+<EditForm Model="NewEvent" OnValidSubmit="AddEvent">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <label>Event Name:</label>
+    <input @bind="NewEvent.Name" class="form-control" />
+    <ValidationMessage For="@(() => NewEvent.Name)" />
+
+    <label>Event Date:</label>
+    <input @bind="NewEvent.Date" type="date" class="form-control" />
+    <ValidationMessage For="@(() => NewEvent.Date)" />
+
+    <label>Event Location:</label>
+    <input @bind="NewEvent.Location" class="form-control" />
+    <ValidationMessage For="@(() => NewEvent.Location)" />
+
+    <button type="submit" class="btn btn-primary">Submit Event</button>
+</EditForm>
+
+<hr />
+
+<!-- Display List of Submitted Events -->
+<h4>Submitted Events</h4>
 @foreach (var eventItem in Events)
 {
-    <div>
-        <EventCard EventName="@eventItem.Name" EventDate="@eventItem.Date" EventLocation="@eventItem.Location" />
-        <a href="/eventdetails">View Details</a>
+    <div class="event-card">
+        <h3>Event Name: @eventItem.Name</h3>
+        <p>Date: @eventItem.Date</p>
+        <p>Location: @eventItem.Location</p>
+        <a href="/eventdetails?name=@eventItem.Name&date=@eventItem.Date&location=@eventItem.Location" class="btn btn-link">View Details</a>
     </div>
 }
 
 @code {
-    private List<Event> Events = new()
-    {
-        new Event { Name = "Tech Conference 2025", Date = new DateTime(2025, 6, 15), Location = "New York City" },
-        new Event { Name = "Music Festival", Date = new DateTime(2025, 7, 10), Location = "Los Angeles" },
-        new Event { Name = "Art Expo", Date = new DateTime(2025, 8, 20), Location = "San Francisco" }
-    };
+    // List of Events
+    private List<Event> Events = new();
 
+    // Model for New Event
+    private Event NewEvent = new Event();
+
+    // Method to Add Event to the List
+    private async Task AddEvent()
+    {
+        // Add new event to the list
+        Events.Add(new Event
+        {
+            Name = NewEvent.Name,
+            Date = NewEvent.Date,
+            Location = NewEvent.Location
+        });
+
+        // Save the events list to local storage
+        await LocalStorage.SetItemAsync("events", Events);
+
+        // Reset the form
+        NewEvent = new Event();
+    }
+
+    // Load events from local storage when the component initializes
+    protected override async Task OnInitializedAsync()
+    {
+        var savedEvents = await LocalStorage.GetItemAsync<List<Event>>("events");
+        if (savedEvents != null)
+        {
+            Events = savedEvents;
+        }
+    }
+
+    // Event Model
     private class Event
     {
+        [Required(ErrorMessage = "Event Name is required.")]
+        [StringLength(100, ErrorMessage = "Event Name must be less than 100 characters.")]
         public string Name { get; set; }
+
+        [Required(ErrorMessage = "Event Date is required.")]
         public DateTime Date { get; set; }
+
+        [Required(ErrorMessage = "Event Location is required.")]
+        [StringLength(200, ErrorMessage = "Event Location must be less than 200 characters.")]
         public string Location { get; set; }
     }
 }

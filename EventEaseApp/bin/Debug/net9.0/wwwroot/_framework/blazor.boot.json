@@ -1,8 +1,9 @@
 {
   "mainAssemblyName": "EventEaseApp",
   "resources": {
-    "hash": "sha256-MCXxyPLj9eC63metMrwFSkTcDesQ9b69d6EfESYMSfs=",
+    "hash": "sha256-XszV22CcVI4EQPC6Ny18w74qcjik+P+5xWBYJkQjDbg=",
     "fingerprinting": {
+      "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.9at76jd5um.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -201,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "EventEaseApp.f4w6y3nsjm.wasm": "EventEaseApp.wasm",
-      "EventEaseApp.quv2s0m7bw.pdb": "EventEaseApp.pdb"
+      "EventEaseApp.blswfl05qy.wasm": "EventEaseApp.wasm",
+      "EventEaseApp.c4nzdbyjw9.pdb": "EventEaseApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -223,6 +224,7 @@
       "System.Private.CoreLib.u3k7k03qne.wasm": "sha256-iqXECPj8uFcb/7OzD0dDXV+C8VvMmS7RYZ6ZUnFdlTs="
     },
     "assembly": {
+      "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "sha256-N6/4dp+rtuEu+iWs7ZZs30QrZzpGpF9KC6ulCWZCo2w=",
       "Microsoft.AspNetCore.Components.h4ild4sjod.wasm": "sha256-AYyXG0WrvwNEEX2QtbpR9AtYu26WKG+S10Q398vbgqY=",
       "Microsoft.AspNetCore.Components.Forms.9at76jd5um.wasm": "sha256-AZJqGXJM2Sos31wIr7syLy0TWCLYEWzemxDkwUyfPyk=",
@@ -412,10 +414,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "EventEaseApp.f4w6y3nsjm.wasm": "sha256-H6aQL2Qw9R9PxR8M2EktGYvDSG/bfjbAguPQJ6oMbg0="
+      "EventEaseApp.blswfl05qy.wasm": "sha256-QYSf3OBa4kG3vDWsbqjeEeM6cRMSR8TCmS91AR2TDqw="
     },
     "pdb": {
-      "EventEaseApp.quv2s0m7bw.pdb": "sha256-PjbmYh3/wDLrg4MRd+wxdnK7ILK8GeIZBGuFDu2uCv8="
+      "EventEaseApp.c4nzdbyjw9.pdb": "sha256-NIdh9qivv2+nOVuA/lphmGh4+vB0ockXEhe/T/FKrYs="
     }
   },
   "cacheBootResources": true,

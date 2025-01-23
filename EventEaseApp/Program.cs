@@ -2,10 +2,11 @@ using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using EventEaseApp;
 
-var builder = WebAssemblyHostBuilder.CreateDefault(args);
-builder.RootComponents.Add<App>("#app");
-builder.RootComponents.Add<HeadOutlet>("head::after");
+using Blazored.LocalStorage;
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
+var builder = WebAssemblyHostBuilder.CreateDefault(args);
+builder.Services.AddBlazoredLocalStorage(); // Register the LocalStorage service
+builder.RootComponents.Add<App>("#app");
 
 await builder.Build().RunAsync();
+
