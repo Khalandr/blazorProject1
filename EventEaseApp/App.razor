@@ -1,7 +1,6 @@
 ﻿@inject UserSessionService SessionService
 @using EventEaseApp.Services;
 
-
 <div style="margin: 20px;">
     @if (SessionService.IsLoggedIn)
     {
@@ -29,13 +28,13 @@
 </Router>
 
 @code {
-    private void Login()
+    private async Task Login()
     {
-        SessionService.Login("TestUser"); // Simulate a login with a username
+        await SessionService.Login("TestUser"); // Simulate a login with a username
     }
 
-    private void Logout()
+    private async Task Logout()
     {
-        SessionService.Logout();
+        await SessionService.Logout();
     }
 }
