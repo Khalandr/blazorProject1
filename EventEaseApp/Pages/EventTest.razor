@@ -49,7 +49,10 @@
     private List<Event> Events = new();
 
     // Model for New Event
-    private Event NewEvent = new Event();
+    private Event NewEvent = new Event
+    {
+        Date = DateTime.Today // Set default to today's date
+    };
 
     // Method to Add Event to the List
     private async Task AddEvent()

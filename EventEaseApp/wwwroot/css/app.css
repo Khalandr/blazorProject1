@@ -132,3 +132,7 @@ code {
     margin: 8px 0;
     color: #555;
 }
+.btn-primary {
+    margin-top: 10px; /* Adjust this value if needed */
+}
+

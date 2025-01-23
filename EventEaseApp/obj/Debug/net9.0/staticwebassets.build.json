@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "O2LP6lgwprrt3r9Px/qxSm7yGvHmnXWIMSM/V5VUEGs=",
+  "Hash": "FHfQbiuItFlry3scxOh0txbnUOzqCvCpDTaP/fmidbQ=",
   "Source": "EventEaseApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "781kt2aebd",
-      "Integrity": "N+gXQK0g0ZQTL1LjR+UzxAv0WeGd6fn5xhfXrJLPbAY=",
+      "Fingerprint": "4ww0zaz0a8",
+      "Integrity": "fL76qvglKnGGX5QEBUA/vH01V+LLcid4FeZ/LvJGsw4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -220,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "hri7q5il7g",
-      "Integrity": "vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM=",
+      "Fingerprint": "6g0z03xlmj",
+      "Integrity": "+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\EventEaseApp.pdb"
@@ -241,8 +241,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "3l5d89g9bh",
-      "Integrity": "eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo=",
+      "Fingerprint": "hb8zm881hz",
+      "Integrity": "3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\webcil\\EventEaseApp.wasm"
@@ -5687,7 +5687,7 @@
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.UnmanagedMemoryStream.wasm"
     },
     {
-      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\a1w0b3e4ey-781kt2aebd.gz",
+      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\a1w0b3e4ey-4ww0zaz0a8.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -5701,8 +5701,8 @@
       "RelatedAsset": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "c1leplpzxu",
-      "Integrity": "ACFxIKiXfFmqSK5tcFUXqHT2wj/Qf1DfH5Byw5Wejx0=",
+      "Fingerprint": "caq1zw5wog",
+      "Integrity": "rPH9c4Z9uZHOTIIi/jfYyakWCNs6sgtSzDXUvWoWjTo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -5960,12 +5960,12 @@
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Security.Cryptography.Cng.wasm"
     },
     {
-      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-hri7q5il7g.gz",
+      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-6g0z03xlmj.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EventEaseApp#[.{fingerprint=hri7q5il7g}]!.pdb.gz",
+      "RelativePath": "_framework/EventEaseApp#[.{fingerprint=6g0z03xlmj}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5974,8 +5974,8 @@
       "RelatedAsset": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "wgln54j8fv",
-      "Integrity": "cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU=",
+      "Fingerprint": "jk2ftxhuez",
+      "Integrity": "w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.pdb"
@@ -6233,12 +6233,12 @@
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-7y5frmnqji.gz",
+      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-oy9cz5dy3k.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=7y5frmnqji}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=oy9cz5dy3k}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6247,8 +6247,8 @@
       "RelatedAsset": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "n4v6pmgpx4",
-      "Integrity": "6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE=",
+      "Fingerprint": "mp4gket0mk",
+      "Integrity": "JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\wwwroot\\css\\app.css"
@@ -8459,12 +8459,12 @@
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-3l5d89g9bh.gz",
+      "Identity": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-hb8zm881hz.gz",
       "SourceId": "EventEaseApp",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/EventEaseApp#[.{fingerprint=3l5d89g9bh}]!.wasm.gz",
+      "RelativePath": "_framework/EventEaseApp#[.{fingerprint=hb8zm881hz}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8473,8 +8473,8 @@
       "RelatedAsset": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "f1c2yip3ai",
-      "Integrity": "jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo=",
+      "Fingerprint": "40ezgkrwuy",
+      "Integrity": "XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.wasm"
@@ -9712,8 +9712,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "7y5frmnqji",
-      "Integrity": "387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A=",
+      "Fingerprint": "oy9cz5dy3k",
+      "Integrity": "kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -10747,11 +10747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"N+gXQK0g0ZQTL1LjR+UzxAv0WeGd6fn5xhfXrJLPbAY=\""
+          "Value": "\"fL76qvglKnGGX5QEBUA/vH01V+LLcid4FeZ/LvJGsw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10761,13 +10761,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N+gXQK0g0ZQTL1LjR+UzxAv0WeGd6fn5xhfXrJLPbAY="
+          "Value": "sha256-fL76qvglKnGGX5QEBUA/vH01V+LLcid4FeZ/LvJGsw4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\a1w0b3e4ey-781kt2aebd.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\a1w0b3e4ey-4ww0zaz0a8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10786,11 +10786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ACFxIKiXfFmqSK5tcFUXqHT2wj/Qf1DfH5Byw5Wejx0=\""
+          "Value": "\"rPH9c4Z9uZHOTIIi/jfYyakWCNs6sgtSzDXUvWoWjTo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 08:39:39 GMT"
+          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10810,19 +10810,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"N+gXQK0g0ZQTL1LjR+UzxAv0WeGd6fn5xhfXrJLPbAY=\""
+          "Value": "W/\"fL76qvglKnGGX5QEBUA/vH01V+LLcid4FeZ/LvJGsw4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-N+gXQK0g0ZQTL1LjR+UzxAv0WeGd6fn5xhfXrJLPbAY="
+          "Value": "sha256-fL76qvglKnGGX5QEBUA/vH01V+LLcid4FeZ/LvJGsw4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\a1w0b3e4ey-781kt2aebd.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\a1w0b3e4ey-4ww0zaz0a8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10839,11 +10839,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ACFxIKiXfFmqSK5tcFUXqHT2wj/Qf1DfH5Byw5Wejx0=\""
+          "Value": "\"rPH9c4Z9uZHOTIIi/jfYyakWCNs6sgtSzDXUvWoWjTo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 08:39:39 GMT"
+          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +10861,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ACFxIKiXfFmqSK5tcFUXqHT2wj/Qf1DfH5Byw5Wejx0="
+          "Value": "sha256-rPH9c4Z9uZHOTIIi/jfYyakWCNs6sgtSzDXUvWoWjTo="
         }
       ]
     },
@@ -13089,168 +13089,7 @@
       ]
     },
     {
-      "Route": "_framework/EventEaseApp.3l5d89g9bh.wasm",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "30997"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3l5d89g9bh"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EventEaseApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEaseApp.3l5d89g9bh.wasm",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-3l5d89g9bh.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000077411364"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12917"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3l5d89g9bh"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EventEaseApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEaseApp.3l5d89g9bh.wasm.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-3l5d89g9bh.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "12917"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3l5d89g9bh"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/EventEaseApp.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/EventEaseApp.hri7q5il7g.pdb",
+      "Route": "_framework/EventEaseApp.6g0z03xlmj.pdb",
       "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -13260,7 +13099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33292"
+          "Value": "33328"
         },
         {
           "Name": "Content-Type",
@@ -13268,11 +13107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM=\""
+          "Value": "\"+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13282,7 +13121,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hri7q5il7g"
+          "Value": "6g0z03xlmj"
         },
         {
           "Name": "label",
@@ -13290,18 +13129,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM="
+          "Value": "sha256-+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0="
         }
       ]
     },
     {
-      "Route": "_framework/EventEaseApp.hri7q5il7g.pdb",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-hri7q5il7g.gz",
+      "Route": "_framework/EventEaseApp.6g0z03xlmj.pdb",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-6g0z03xlmj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000039155801"
+          "Quality": "0.000039106801"
         }
       ],
       "ResponseHeaders": [
@@ -13311,15 +13150,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25538"
+          "Value": "25570"
         },
         {
           "Name": "ETag",
-          "Value": "\"cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU=\""
+          "Value": "\"w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13339,13 +13178,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM=\""
+          "Value": "W/\"+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hri7q5il7g"
+          "Value": "6g0z03xlmj"
         },
         {
           "Name": "label",
@@ -13353,13 +13192,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM="
+          "Value": "sha256-+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0="
         }
       ]
     },
     {
-      "Route": "_framework/EventEaseApp.hri7q5il7g.pdb.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-hri7q5il7g.gz",
+      "Route": "_framework/EventEaseApp.6g0z03xlmj.pdb.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-6g0z03xlmj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13368,7 +13207,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25538"
+          "Value": "25570"
         },
         {
           "Name": "Content-Type",
@@ -13376,11 +13215,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU=\""
+          "Value": "\"w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13398,7 +13237,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hri7q5il7g"
+          "Value": "6g0z03xlmj"
         },
         {
           "Name": "label",
@@ -13406,7 +13245,168 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU="
+          "Value": "sha256-w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEaseApp.hb8zm881hz.wasm",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\EventEaseApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30997"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 09:14:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb8zm881hz"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EventEaseApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEaseApp.hb8zm881hz.wasm",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-hb8zm881hz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000077297673"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12936"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb8zm881hz"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EventEaseApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/EventEaseApp.hb8zm881hz.wasm.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-hb8zm881hz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12936"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hb8zm881hz"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/EventEaseApp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0="
         }
       ]
     },
@@ -13421,7 +13421,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33292"
+          "Value": "33328"
         },
         {
           "Name": "Content-Type",
@@ -13429,11 +13429,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM=\""
+          "Value": "\"+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13443,18 +13443,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM="
+          "Value": "sha256-+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0="
         }
       ]
     },
     {
       "Route": "_framework/EventEaseApp.pdb",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-hri7q5il7g.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-6g0z03xlmj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000039155801"
+          "Quality": "0.000039106801"
         }
       ],
       "ResponseHeaders": [
@@ -13464,15 +13464,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25538"
+          "Value": "25570"
         },
         {
           "Name": "ETag",
-          "Value": "\"cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU=\""
+          "Value": "\"w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13492,19 +13492,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM=\""
+          "Value": "W/\"+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM="
+          "Value": "sha256-+tb4OS8RHVOLo6C2ZUj1ENEImXOkW38IKiX7zA/eYe0="
         }
       ]
     },
     {
       "Route": "_framework/EventEaseApp.pdb.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-hri7q5il7g.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\c1jhhq4o6d-6g0z03xlmj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13513,7 +13513,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "25538"
+          "Value": "25570"
         },
         {
           "Name": "Content-Type",
@@ -13521,11 +13521,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU=\""
+          "Value": "\"w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13543,7 +13543,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-cLGWjkzmXY98z4+wqn8PXa4a5cAvifnO3RcIPUe1WxU="
+          "Value": "sha256-w6s2JP8H2Cp1hbhctyhFr1aXUa17B0YCi6On8UwR858="
         }
       ]
     },
@@ -13566,11 +13566,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo=\""
+          "Value": "\"3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13580,18 +13580,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo="
+          "Value": "sha256-3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q="
         }
       ]
     },
     {
       "Route": "_framework/EventEaseApp.wasm",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-3l5d89g9bh.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-hb8zm881hz.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000077411364"
+          "Quality": "0.000077297673"
         }
       ],
       "ResponseHeaders": [
@@ -13601,15 +13601,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12917"
+          "Value": "12936"
         },
         {
           "Name": "ETag",
-          "Value": "\"jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo=\""
+          "Value": "\"XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13629,19 +13629,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo=\""
+          "Value": "W/\"3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo="
+          "Value": "sha256-3cqlmLZlSy4o/+iUqZsJmZuNlWxgTnnEGj5ri9FVC0Q="
         }
       ]
     },
     {
       "Route": "_framework/EventEaseApp.wasm.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-3l5d89g9bh.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\skwk8s9ui1-hb8zm881hz.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -13650,7 +13650,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12917"
+          "Value": "12936"
         },
         {
           "Name": "Content-Type",
@@ -13658,11 +13658,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo=\""
+          "Value": "\"XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 23 Jan 2025 09:06:03 GMT"
+          "Value": "Thu, 23 Jan 2025 09:14:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -13680,7 +13680,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-jRwigRO6l2alNlKc3jNjbU/g8ExEUn20NSDrzg3LEYo="
+          "Value": "sha256-XD5j6hSjRQC/3MzkVXiaz+KIqj3VAqaqx8f48ny0Os0="
         }
       ]
     },
@@ -71497,13 +71497,13 @@
       ]
     },
     {
-      "Route": "css/app.7y5frmnqji.css",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-7y5frmnqji.gz",
+      "Route": "css/app.css",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-oy9cz5dy3k.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000469704086"
+          "Quality": "0.000461893764"
         }
       ],
       "ResponseHeaders": [
@@ -71513,19 +71513,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2128"
+          "Value": "2164"
         },
         {
           "Name": "ETag",
-          "Value": "\"6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE=\""
+          "Value": "\"JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 12:11:09 GMT"
+          "Value": "Thu, 23 Jan 2025 09:10:30 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -71541,26 +71541,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A=\""
+          "Value": "W/\"kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "7y5frmnqji"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A="
+          "Value": "sha256-kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro="
         }
       ]
     },
     {
-      "Route": "css/app.7y5frmnqji.css",
+      "Route": "css/app.css",
       "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71570,7 +71562,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4478"
+          "Value": "4556"
         },
         {
           "Name": "Content-Type",
@@ -71578,11 +71570,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A=\""
+          "Value": "\"kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 12:11:09 GMT"
+          "Value": "Thu, 23 Jan 2025 09:10:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-oy9cz5dy3k.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2164"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 09:10:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.oy9cz5dy3k.css",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-oy9cz5dy3k.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000461893764"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2164"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 09:10:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oy9cz5dy3k"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.oy9cz5dy3k.css",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4556"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 09:10:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71592,7 +71729,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7y5frmnqji"
+          "Value": "oy9cz5dy3k"
         },
         {
           "Name": "label",
@@ -71600,13 +71737,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A="
+          "Value": "sha256-kLuFNQ8yD/+g0Pl6vpPyasiruyG6s266Tn2bsSdGOro="
         }
       ]
     },
     {
-      "Route": "css/app.7y5frmnqji.css.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-7y5frmnqji.gz",
+      "Route": "css/app.oy9cz5dy3k.css.gz",
+      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-oy9cz5dy3k.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71615,7 +71752,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2128"
+          "Value": "2164"
         },
         {
           "Name": "Content-Type",
@@ -71623,11 +71760,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE=\""
+          "Value": "\"JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 12:11:09 GMT"
+          "Value": "Thu, 23 Jan 2025 09:10:30 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71645,7 +71782,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "7y5frmnqji"
+          "Value": "oy9cz5dy3k"
         },
         {
           "Name": "label",
@@ -71653,144 +71790,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-7y5frmnqji.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000469704086"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2128"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 12:11:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\wwwroot\\css\\app.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 12:11:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-387gXYgqnswUlaCyL/t00vHJoGPM3DhFQUU1hwzFK+A="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "C:\\Users\\khali\\Documents\\projects\\blazorProject1\\EventEaseApp\\obj\\Debug\\net9.0\\compressed\\eotnszvkb1-7y5frmnqji.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2128"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 22 Jan 2025 12:11:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6Qt6tFWSylnsbdcGqOQniAL1Ws9IEjFXHHNL9QB8DRE="
+          "Value": "sha256-JijkGLH5oQu2o/Kftr/jyu5PVY6kaep0DVFoOJ9NNzs="
         }
       ]
     },
