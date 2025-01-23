@@ -7,8 +7,6 @@ C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\w
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.native.aep4lch3d1.wasm
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.rubq0v1yiy.js
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\dotnet.runtime.js.map
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.c4nzdbyjw9.pdb
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.blswfl05qy.wasm
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
@@ -266,7 +264,6 @@ C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\w
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Text.Encoding.Extensions.nlydxjh19m.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.omar8pgxm8.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Security.Cryptography.Cng.tg2su1vayp.wasm.gz
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.c4nzdbyjw9.pdb.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.JSInterop.gkumi7kxvo.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Resources.Reader.09wnmnw7h6.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XmlSerializer.php9d66sr9.wasm.gz
@@ -365,7 +362,6 @@ C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\w
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Xml.XDocument.jcxbdnyj8b.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.TraceSource.777sathwzn.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Primitives.3pkwbmnqmy.wasm.gz
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.blswfl05qy.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Configuration.bcycfuj8pt.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\System.Reflection.TypeExtensions.elsa09wwcc.wasm.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\WindowsBase.ovqw333kan.wasm.gz
@@ -1070,9 +1066,6 @@ C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\c
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\r489smiiq7-tjcz0u77k5.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\qvouh2q4mf-tptq2av103.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\hcxylcfklo-lfu7j35m59.gz
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\skwk8s9ui1-blswfl05qy.gz
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\c1jhhq4o6d-c4nzdbyjw9.gz
-C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\a1w0b3e4ey-itejw8yw3c.gz
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1087,3 +1080,10 @@ C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\E
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\refint\EventEaseApp.dll
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\EventEaseApp.pdb
 C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\ref\EventEaseApp.dll
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.et36e0x8xh.pdb
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.fhqmxiows9.wasm
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.et36e0x8xh.pdb.gz
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\bin\Debug\net9.0\wwwroot\_framework\EventEaseApp.fhqmxiows9.wasm.gz
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\skwk8s9ui1-fhqmxiows9.gz
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\c1jhhq4o6d-et36e0x8xh.gz
+C:\Users\khali\Documents\projects\blazorProject1\EventEaseApp\obj\Debug\net9.0\compressed\a1w0b3e4ey-rhvmodav9n.gz

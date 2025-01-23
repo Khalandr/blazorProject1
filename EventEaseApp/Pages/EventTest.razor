@@ -34,9 +34,14 @@
         <h3>Event Name: @eventItem.Name</h3>
         <p>Date: @eventItem.Date</p>
         <p>Location: @eventItem.Location</p>
+        <label>
+            <input type="checkbox" @bind="eventItem.IsAttending" />
+            Attending
+        </label>
         <a href="/eventdetails?name=@eventItem.Name&date=@eventItem.Date&location=@eventItem.Location" class="btn btn-link">View Details</a>
     </div>
 }
+
 
 @code {
     // List of Events
@@ -53,7 +58,8 @@
         {
             Name = NewEvent.Name,
             Date = NewEvent.Date,
-            Location = NewEvent.Location
+            Location = NewEvent.Location,
+            IsAttending = false
         });
 
         // Save the events list to local storage
@@ -86,5 +92,7 @@
         [Required(ErrorMessage = "Event Location is required.")]
         [StringLength(200, ErrorMessage = "Event Location must be less than 200 characters.")]
         public string Location { get; set; }
+
+        public bool IsAttending { get; set; }
     }
 }
