@@ -39,6 +39,7 @@
             Attending
         </label>
         <a href="/eventdetails?name=@eventItem.Name&date=@eventItem.Date&location=@eventItem.Location" class="btn btn-link">View Details</a>
+        <button class="btn btn-danger" @onclick="() => DeleteEvent(eventItem)">Delete</button>
     </div>
 }
 
@@ -68,6 +69,15 @@
         // Reset the form
         NewEvent = new Event();
     }
+    private async Task DeleteEvent(Event eventToDelete)
+    {
+        // Remove the event from the list
+        Events.Remove(eventToDelete);
+
+        // Update local storage
+        await LocalStorage.SetItemAsync("events", Events);
+    }
+
 
     // Load events from local storage when the component initializes
     protected override async Task OnInitializedAsync()

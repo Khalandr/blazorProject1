@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EventEaseApp",
   "resources": {
-    "hash": "sha256-Nz8DymLX6F+dCcTamKm1Qw7pfZhT1PSIJwY89jNlpKQ=",
+    "hash": "sha256-i2nZWKfZSYBFg7jsfIOtGcmICtc+IDXoSPm64P46tj8=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Authorization.n41ua9ceve.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -202,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "EventEaseApp.fhqmxiows9.wasm": "EventEaseApp.wasm",
-      "EventEaseApp.et36e0x8xh.pdb": "EventEaseApp.pdb"
+      "EventEaseApp.3l5d89g9bh.wasm": "EventEaseApp.wasm",
+      "EventEaseApp.hri7q5il7g.pdb": "EventEaseApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8o8n7iomrf.js": "sha256-WIUiy49hHQ3kOAtRdCtUzm3Yg5BnOqCC+Q+kri9Fi1g="
@@ -414,10 +414,10 @@
       "WindowsBase.ovqw333kan.wasm": "sha256-7LCr4nX9JSGuwzMr8Rk8TGvC6ApzQNxCDiMV/0I9JlI=",
       "mscorlib.l6md3pggqy.wasm": "sha256-jZgH0LixLeQKqaq33akQgDGhfE7vbXbHtvCId5HC0Yo=",
       "netstandard.lij9csiyuf.wasm": "sha256-DeeBl9s8G34N3IfYRQ+MoY807amodj8cvpuvUSNaWE4=",
-      "EventEaseApp.fhqmxiows9.wasm": "sha256-bQfxYB8iHzaFPE+3bVxO4WF56OB/ZxSFY5mBihTsbeg="
+      "EventEaseApp.3l5d89g9bh.wasm": "sha256-eZaZt7B+nGDBXkluko2mq0JhUlx5jgIXMBZBlLSr9Mo="
     },
     "pdb": {
-      "EventEaseApp.et36e0x8xh.pdb": "sha256-0jazg9o9AMJfXz1b1lBqUi5wCXqipsl3fANBw5+wSmw="
+      "EventEaseApp.hri7q5il7g.pdb": "sha256-vUgmEZmHCeFYV0OADNUbC6UOHwpY31vcFP25QZRlEgM="
     }
   },
   "cacheBootResources": true,
