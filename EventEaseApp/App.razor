@@ -1,4 +1,21 @@
-﻿<Router AppAssembly="@typeof(App).Assembly">
+﻿@inject UserSessionService SessionService
+@using EventEaseApp.Services;
+
+
+<div style="margin: 20px;">
+    @if (SessionService.IsLoggedIn)
+    {
+        <p>Welcome, @SessionService.UserName!</p>
+        <button @onclick="Logout" class="btn btn-danger">Logout</button>
+    }
+    else
+    {
+        <p>You are not logged in.</p>
+        <button @onclick="Login" class="btn btn-primary">Login</button>
+    }
+</div>
+
+<Router AppAssembly="@typeof(App).Assembly">
     <Found Context="routeData">
         <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
         <FocusOnNavigate RouteData="@routeData" Selector="h1" />
@@ -10,3 +27,15 @@
         </LayoutView>
     </NotFound>
 </Router>
+
+@code {
+    private void Login()
+    {
+        SessionService.Login("TestUser"); // Simulate a login with a username
+    }
+
+    private void Logout()
+    {
+        SessionService.Logout();
+    }
+}
