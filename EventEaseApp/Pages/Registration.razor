@@ -1,0 +1,103 @@
+@page "/registration"
+@using System.ComponentModel.DataAnnotations
+@inject Blazored.LocalStorage.ILocalStorageService LocalStorage
+
+<h3>User Registration</h3>
+
+<EditForm Model="NewUser" OnValidSubmit="HandleRegistration">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <!-- Username -->
+    <div class="mb-3">
+        <label for="username" class="form-label">Username</label>
+        <input id="username" @bind="NewUser.Username" @oninput="SaveFormData" class="form-control" />
+        <ValidationMessage For="@(() => NewUser.Username)" />
+    </div>
+
+    <!-- Email -->
+    <div class="mb-3">
+        <label for="email" class="form-label">Email</label>
+        <input id="email" @bind="NewUser.Email" @oninput="SaveFormData" type="email" class="form-control" />
+        <ValidationMessage For="@(() => NewUser.Email)" />
+    </div>
+
+    <!-- Password -->
+    <div class="mb-3">
+        <label for="password" class="form-label">Password</label>
+        <input id="password" @bind="NewUser.Password" @oninput="SaveFormData" type="password" class="form-control" />
+        <ValidationMessage For="@(() => NewUser.Password)" />
+    </div>
+
+    <!-- Submit Button -->
+    <button type="submit" class="btn btn-primary">Register</button>
+</EditForm>
+
+@code {
+    private UserRegistrationModel NewUser = new UserRegistrationModel();
+
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {   
+            Console.WriteLine("Loading data from local storage...");
+            var savedData = await LocalStorage.GetItemAsync<UserRegistrationModel>("registrationForm");
+            if (savedData != null)
+            {
+                Console.WriteLine($"Data loaded: Username={savedData.Username}, Email={savedData.Email}, Password={savedData.Password}");
+                NewUser = savedData; // Restore saved data
+            }
+            else
+            {
+                Console.WriteLine("No data found in local storage.");
+            }
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error loading form data: {ex.Message}");
+        }
+    }
+
+    private async Task SaveFormData(ChangeEventArgs args)
+    {
+        try
+        {
+            Console.WriteLine($"Saving data: Username={NewUser.Username}, Email={NewUser.Email}, Password={NewUser.Password}");
+            await LocalStorage.SetItemAsync("registrationForm", NewUser);
+            Console.WriteLine("Form data saved to local storage.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error saving form data: {ex.Message}");
+        }
+    }
+
+    private async Task HandleRegistration()
+    {
+        try
+        {
+            // Simulate successful registration logic
+            await LocalStorage.RemoveItemAsync("registrationForm"); // Clear form data after registration
+            NewUser = new UserRegistrationModel(); // Reset the form
+            Console.WriteLine("User successfully registered and form cleared.");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Error during registration: {ex.Message}");
+        }
+    }
+
+    private class UserRegistrationModel
+    {
+        [Required(ErrorMessage = "Username is required.")]
+        public string Username { get; set; }
+
+        [Required(ErrorMessage = "Password is required.")]
+        [StringLength(100, MinimumLength = 6, ErrorMessage = "Password must be at least 6 characters long.")]
+        public string Password { get; set; }
+
+        [Required(ErrorMessage = "Email is required.")]
+        [EmailAddress(ErrorMessage = "Invalid email address.")]
+        public string Email { get; set; }
+    }
+}
